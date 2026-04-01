@@ -1,2 +1,2 @@
-# StarWork
+# starwork-desktop
 基于日常工作记录，回顾，思考，分享，共创。
